@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/circle-menu/circle-menu.iml" filepath="$PROJECT_DIR$/circle-menu/circle-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circle-menu-android-master.iml" filepath="$PROJECT_DIR$/circle-menu-android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circle-menu-simple-example/circle-menu-simple-example.iml" filepath="$PROJECT_DIR$/circle-menu-simple-example/circle-menu-simple-example.iml" />
+    </modules>
+  </component>
+</project>

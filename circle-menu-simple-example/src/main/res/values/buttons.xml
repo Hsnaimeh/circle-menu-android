@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_instagram</item>
+        <item>@drawable/ic_snapchat</item>
+    </array>
+    <array name="colors">
+        <item>@color/blue_facebook</item>
+        <item>@color/blue_twitter</item>
+        <item>@color/bg_instagram</item>
+        <item>@color/yellow_snapchat</item>
+    </array>
+</resources>
